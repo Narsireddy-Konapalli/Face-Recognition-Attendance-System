@@ -5,5 +5,7 @@ opencv_python==4.10.0.84
 pandas==2.2.3
 pytz==2024.2
 streamlit==1.38.0
-cmake==3.30.3
-dlib==19.24.1
+cmake
+dlib==19.22.1
+face-recognition-models
+face_recognition==1.2.3
