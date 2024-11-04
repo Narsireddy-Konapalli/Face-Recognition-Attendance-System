@@ -42,7 +42,7 @@ This project is a **Face Recognition Attendance System** built with Python. It u
 
 After entering your name and USN, the camera will open and monitor your face for 60 frames. Once your face is detected continuously for 59 frames, the application will capture the image and display a confirmation message indicating successful registration.
 > **Screenshot Example**: Below is a screenshot of the registration process showing the camera capturing the face.
-> ![Registration Screenshot] ![Registration](https://github.com/user-attachments/assets/2dce9359-3960-4099-91f7-9695814da461)
+> ![Registration](https://github.com/user-attachments/assets/2dce9359-3960-4099-91f7-9695814da461)
 
 ### Marking Attendance
 
