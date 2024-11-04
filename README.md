@@ -16,7 +16,7 @@ This project is a **Face Recognition Attendance System** built with Python. It u
 - **OpenCV**: For capturing and processing images.
 - **Face Recognition Library**: Used for detecting and recognizing faces.
 - **Streamlit**: For building a web-based user interface.
-- **SQLite/MySQL**: For storing attendance records.
+- **SQLite**: For storing attendance records.
 
 ## Setup Instructions
 
