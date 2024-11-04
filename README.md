@@ -49,10 +49,10 @@ After entering your name and USN, the camera will open and monitor your face for
 To mark attendance, select the subject from the dropdown menu. Once the subject is selected, enter your USN in the provided field. After entering the information, click the "submit" button. The application will use your registered face to verify your identity and log your attendance accordingly.
 
 > **Screenshot Example**: Below is a screenshot of the attendance marking page showing the dropdown menu for subject selection and the USN entry field.
-> ![Mark Attendance Screenshot] ![Marking Attendance](https://github.com/user-attachments/assets/fb2aef99-3533-4613-aae7-d7d1e87b9662)
+> ![Marking Attendance](https://github.com/user-attachments/assets/fb2aef99-3533-4613-aae7-d7d1e87b9662)
 
 **Screenshot Example**: Below is a screenshot demonstrating the attendance marking process, where your name is displayed at the top after recognizing your face.
-> ![Mark Attendance Confirmation Screenshot] ![Marked Attendance](https://github.com/user-attachments/assets/18fd1105-6d86-4b69-bc5e-b44278dc2fc1)
+>![Marked Attendance](https://github.com/user-attachments/assets/18fd1105-6d86-4b69-bc5e-b44278dc2fc1)
 
 
 ### Checking Attendance
@@ -60,7 +60,7 @@ To mark attendance, select the subject from the dropdown menu. Once the subject 
 To check your attendance, enter your USN in the designated field and select the subject from the dropdown menu. After entering the information, click the "submit" button. The application will retrieve your attendance records for the selected subject and display the results accordingly.
 
 > **Screenshot Example**: Below is a screenshot showing the attendance checking process, displaying the results for the selected subject after entering the USN.
-> ![Check Attendance Screenshot] ![Attendance checked](https://github.com/user-attachments/assets/1364ef10-9afa-407e-b452-7c35f608ddbc)
+> ![Attendance checked](https://github.com/user-attachments/assets/1364ef10-9afa-407e-b452-7c35f608ddbc)
 
 
 
