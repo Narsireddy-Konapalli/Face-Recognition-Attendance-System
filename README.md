@@ -24,3 +24,13 @@ This project is a **Face Recognition Attendance System** built with Python. It u
    ```bash
    git clone https://github.com/yourusername/face-recognition-attendance-system.git
    cd face-recognition-attendance-system
+2. **Install Dependencies**: Ensure you have Python installed, then install the required libraries:
+
+   ```bash
+   pip install opencv-python face-recognition streamlit
+   
+3. **Run the Application:**
+
+   After cloning the repository and installing all the necessary libraries, run the following command to start the Streamlit app:
+   ``` bash
+   streamlit run main.py
