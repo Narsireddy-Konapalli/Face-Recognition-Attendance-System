@@ -41,5 +41,32 @@ This project is a **Face Recognition Attendance System** built with Python. It u
 ### Registration Using Camera
 
 After entering your name and USN, the camera will open and monitor your face for 60 frames. Once your face is detected continuously for 59 frames, the application will capture the image and display a confirmation message indicating successful registration.
+> **Screenshot Example**: Below is a screenshot of the registration process showing the camera capturing the face.
+> ![Registration Screenshot] ![Registration](https://github.com/user-attachments/assets/2dce9359-3960-4099-91f7-9695814da461)
+
+### Marking Attendance
+
+To mark attendance, select the subject from the dropdown menu. Once the subject is selected, enter your USN in the provided field. After entering the information, click the "submit" button. The application will use your registered face to verify your identity and log your attendance accordingly.
+
+> **Screenshot Example**: Below is a screenshot of the attendance marking page showing the dropdown menu for subject selection and the USN entry field.
+> ![Mark Attendance Screenshot] ![Marking Attendance](https://github.com/user-attachments/assets/fb2aef99-3533-4613-aae7-d7d1e87b9662)
+
+**Screenshot Example**: Below is a screenshot demonstrating the attendance marking process, where your name is displayed at the top after recognizing your face.
+> ![Mark Attendance Confirmation Screenshot] ![Marked Attendance](https://github.com/user-attachments/assets/18fd1105-6d86-4b69-bc5e-b44278dc2fc1)
+
+
+### Checking Attendance
+
+To check your attendance, enter your USN in the designated field and select the subject from the dropdown menu. After entering the information, click the "submit" button. The application will retrieve your attendance records for the selected subject and display the results accordingly.
+
+> **Screenshot Example**: Below is a screenshot showing the attendance checking process, displaying the results for the selected subject after entering the USN.
+> ![Check Attendance Screenshot] ![Attendance checked](https://github.com/user-attachments/assets/33af321d-1692-4944-935e-6b5206199326)
+
+
+
+## Conclusion
+
+The Face Recognition Attendance System provides a modern and efficient way to manage attendance using advanced face recognition technology. This system streamlines the attendance process, making it easier for both students and educators to track attendance accurately and conveniently.
+
 
 
