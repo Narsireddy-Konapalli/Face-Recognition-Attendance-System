@@ -65,6 +65,7 @@ To check your attendance, enter your USN in the designated field and select the 
 
 
 
+
 ## Conclusion
 
 The Face Recognition Attendance System provides a modern and efficient way to manage attendance using advanced face recognition technology. This system streamlines the attendance process, making it easier for both students and educators to track attendance accurately and conveniently.
