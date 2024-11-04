@@ -35,6 +35,6 @@ This project is a **Face Recognition Attendance System** built with Python. It u
    ``` bash
    streamlit run main.py
    
-**Home Page**: Below is a screenshot of the Streamlit app homepage showcasing the face registration, attendance tracking, and mark attendance features.
+**Home Page**: Below is a screenshot of the Streamlit app homepage showcasing the face registration, mark attendance and check attendance features.
    ![Home](https://github.com/user-attachments/assets/da751a0c-22cd-4d24-9518-e7a4d37213f7)
 
