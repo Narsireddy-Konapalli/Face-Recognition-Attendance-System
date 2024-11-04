@@ -57,9 +57,9 @@ To mark attendance, select the subject from the dropdown menu. Once the subject 
 
 ### Checking Attendance
 
-To check your attendance, enter your USN in the designated field and select the subject from the dropdown menu. After entering the information, click the "submit" button. The application will retrieve your attendance records for the selected subject and display the results accordingly.
+To check your attendance, enter your USN in the designated field and select the subject from the dropdown menu. After entering the information, click the "submit" button. The application will retrieve your attendance records for the selected subject and display the results accordingly.<br>
 
-> **Screenshot Example**: Below is a screenshot showing the attendance checking process, displaying the results for the selected subject after entering the USN.
+> **Screenshot Example**: Below is a screenshot showing the attendance checking process, displaying the results for the selected subject after entering the USN.<br>
 > ![Attendance checked](https://github.com/user-attachments/assets/1364ef10-9afa-407e-b452-7c35f608ddbc)
 
 ## Conclusion
