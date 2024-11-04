@@ -62,10 +62,6 @@ To check your attendance, enter your USN in the designated field and select the 
 > **Screenshot Example**: Below is a screenshot showing the attendance checking process, displaying the results for the selected subject after entering the USN.
 > ![Attendance checked](https://github.com/user-attachments/assets/1364ef10-9afa-407e-b452-7c35f608ddbc)
 
-
-
-
-
 ## Conclusion
 
 The Face Recognition Attendance System provides a modern and efficient way to manage attendance using advanced face recognition technology. This system streamlines the attendance process, making it easier for both students and educators to track attendance accurately and conveniently.
